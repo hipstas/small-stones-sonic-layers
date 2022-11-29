@@ -40,6 +40,14 @@
               "none": ["FX"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://mirandaeastwood.github.io/small-stones-sonic-layers/annotations/-small-stones-audio-canvas-1-voice.json",
+            "label": {
+              "none": ["Voice"]
+            }
+          }
         ],
         "items": [
           {
