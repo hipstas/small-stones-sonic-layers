@@ -14,7 +14,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 >Affordance is a term used to describe the potential uses or actions latent in materials and designs. Glass affords transparency and brittleness. Steel affords strength, smoothness, hardness, and durability. Cotton affords fluffiness, but also breathable cloth when it is spun into yarn and thread. (Levine, 6)
 
-Sound, as a means of communication, is characterised by its own affordances. McGregor and Copeland draw attention to the affective power of sonic work in their series <em>Why Podcast?: Podcasting as Publishing, Sound-Based Scholarship, and Making Podcasts Count:</em></p>
+Sound, as a means of communication, is characterised by its own affordances. McGregor and Copeland draw attention to the affective power of sonic work in their series <em>Why Podcast?: Podcasting as Publishing, Sound-Based Scholarship, and Making Podcasts Count:</em>
 
 >[T]he affective power of sound and voice can help us better process and comprehend what is being conveyed in our academic research. Podcasting in this sense  becomes a mode of affect transmission, a way of amplifying our individual and collective affective signal when bodies cannot be close enough to touch, to feel, and to sense one another. (Episode 2)
 
