@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://mirandaeastwood.github.io/small-stones-sonic-layers/annotations/-small-stones-audio-canvas-1-fx.json",
+  "id": "https://hipstas.github.io/small-stones-sonic-layers/annotations/-small-stones-audio-canvas-1-fx.json",
   "type": "AnnotationPage",
   "label": "FX",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
+        "source": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "259.410597,292.058715"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
+        "source": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "347.329851,355.403163"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
+        "source": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "363.032887,366.936466"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
+        "source": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "373.545936,377.172273"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
+        "source": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "377.726758,673.722322"
@@ -129,7 +129,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
+        "source": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "397.854590,406.992514"
@@ -151,7 +151,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
+        "source": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "537.529541,673.411810"
@@ -173,7 +173,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
+        "source": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "673.411810,680.952816"
@@ -195,7 +195,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
+        "source": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "680.402489,682.961440"
@@ -217,7 +217,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
+        "source": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "681.370066,686.530249"
@@ -239,7 +239,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
+        "source": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "694.000558,699.428280"
@@ -261,7 +261,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
+        "source": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "792.870213,808.129659"
@@ -283,7 +283,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
+        "source": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "940.696104,966.202447"

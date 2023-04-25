@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/manifest.json",
+    "id": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "\"Small Stones\" - Audio" ] },
     "homepage": [
@@ -20,14 +20,14 @@
     ],
     "items": [
       {
-        "id": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
+        "id": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1242.0,
         "annotations": [
           
           {
             "type": "AnnotationPage",
-            "id": "https://mirandaeastwood.github.io/small-stones-sonic-layers/annotations/-small-stones-audio-canvas-1-music.json",
+            "id": "https://hipstas.github.io/small-stones-sonic-layers/annotations/-small-stones-audio-canvas-1-music.json",
             "label": {
               "none": ["Music"]
             }
@@ -35,7 +35,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://mirandaeastwood.github.io/small-stones-sonic-layers/annotations/-small-stones-audio-canvas-1-fx.json",
+            "id": "https://hipstas.github.io/small-stones-sonic-layers/annotations/-small-stones-audio-canvas-1-fx.json",
             "label": {
               "none": ["FX"]
             }
@@ -43,7 +43,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://mirandaeastwood.github.io/small-stones-sonic-layers/annotations/-small-stones-audio-canvas-1-voice.json",
+            "id": "https://hipstas.github.io/small-stones-sonic-layers/annotations/-small-stones-audio-canvas-1-voice.json",
             "label": {
               "none": ["Voice"]
             }
@@ -51,7 +51,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://mirandaeastwood.github.io/small-stones-sonic-layers/annotations/-small-stones-audio-canvas-1-whisper.json",
+            "id": "https://hipstas.github.io/small-stones-sonic-layers/annotations/-small-stones-audio-canvas-1-whisper.json",
             "label": {
               "none": ["Whisper"]
             }
@@ -59,11 +59,11 @@
         ],
         "items": [
           {
-            "id": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/paintings",
+            "id": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/paintings",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/painting",
+                "id": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/painting",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -72,7 +72,7 @@
                   "format": "audio/wav",
                     "duration": 1242.0
                 },
-                "target": "https://mirandaeastwood.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas"
+                "target": "https://hipstas.github.io/small-stones-sonic-layers/-small-stones-audio/canvas-1/canvas"
               }
             ]
           }
